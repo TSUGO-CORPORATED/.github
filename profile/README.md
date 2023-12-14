@@ -36,6 +36,12 @@ Tsugo is a translator-finder app.
 * ![Sass](https://img.shields.io/badge/Sass-purple?style=for-the-badge&logo=sass&logoColor=white)
 * ![Material UI](https://img.shields.io/badge/material_UI-blue?style=for-the-badge&logo=material_UI&logoColor=white)
 * ![Firevbase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
+* ![Google Maps](https://img.shields.io/badge/google_maps-green?style=for-the-badge&logo=googleMaps&logoColor=blue)
+* ![Node Express](https://img.shields.io/badge/Node_Express-black?style=for-the-badge&logo=express&logoColor=white)
+* ![Prisma](https://img.shields.io/badge/prisma-blue?style=for-the-badge&logo=prisma&logoColor=white)
+* ![postgresql](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgreSQL&logoColor=white)
+* ![socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+* ![peerJS](https://img.shields.io/badge/peerJS-orange?style=for-the-badge&logo=PeerJS&logoColor=white)
 * ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 * ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
