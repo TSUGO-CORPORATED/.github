@@ -28,7 +28,7 @@
 ## Description
 
 
-Tsugo is an app that connects english speaking expats in Japan with bilingual Japanese. 
+Tsugo is an app that connects english speaking expats in Japan with bilingual Japanese for all your interpreting needs!
 
 ### Built With
 
