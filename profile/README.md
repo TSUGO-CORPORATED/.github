@@ -35,6 +35,7 @@ Tsugo is a translator-finder app.
 * ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 * ![Sass](https://img.shields.io/badge/Sass-purple?style=for-the-badge&logo=sass&logoColor=white)
 * ![Material UI](https://img.shields.io/badge/material_UI-blue?style=for-the-badge&logo=material_UI&logoColor=white)
+* ![Firevbase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 * ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 * ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
