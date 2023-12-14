@@ -27,7 +27,8 @@
 <!-- Description -->
 ## Description
 
-Tsugo is a translator-finder app. 
+
+Tsugo is an app that connects english speaking expats in Japan with bilingual Japanese. 
 
 ### Built With
 
